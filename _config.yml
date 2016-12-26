@@ -1,0 +1,62 @@
+typography_spectrum: 0.277448685931798
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.27055361968133196
+  lightness: 0.3702920240449655
+  saturation: 0.11488668871066063
+  rhythmicContrast: 0.18592838079521046
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+github: true
+layout_spectrum: 0.7752340223089709
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2747f225-6d5c-4499-9db8-651f0a60db51.png
+name: bierhausinstiut
+navigation:
+  - name: ABOUT
+    id: 5570eb70-bfdf-44e4-a5d2-1125b3f7893e
+    type: content
+  - name: BLOG
+    id: 7a3caf6b-c442-4478-8366-ca4fc6021c44
+    type: content
+  - name: COURSES
+    id: 9774af8f-f0c7-4913-938d-af7bc0868ddd
+    type: content
+  - name: RESOURCE LIBRARY
+    id: db92eb0b-70df-4bc3-81df-c89373a44c25
+    type: content
+  - name: CONTACT
+    id: 0fd12b09-cb16-4ce3-a000-3b30ec01d8c0
+    type: content
+  - name: COMMUNITY
+    id: 66e77b75-68fa-482e-aa87-30ad6953448b
+    type: content
+  - name: MAGAZINE
+    id: bf1607b9-e89d-4bda-a93f-d286e39ff7c5
+    type: content
+  - name: COURSES
+    id: 5889d0a0-24cf-4d50-8b19-a6a902984b0e
+    type: content
+  - name: SHOP
+    id: ffdb66f4-ad1d-43e1-b3e3-aae92d2303af
+    type: content
+  - name: TERMS and CONDITIONS
+    id: a3ddeb25-96e0-47f8-82c6-6ff9cdb3964c
+    type: content
+  - name: MAGAZINE
+    id: 3ee580da-ac34-427e-9f2c-3e5990314f8c
+    type: content
+  - name: RESOURCE LIBRARY
+    id: e730142c-f1c2-4b7d-9d38-41515df37cf9
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61a35cab-e450-4a38-82ee-4301b1ec47ef.jpg
+title: ' A CAREER IN CRAFT BEER'
+content: []
+description: Empowering Craft Beer Enthusiasts With Self Guided Courses
+purpose: []
