@@ -59,4 +59,7 @@ favicon: >-
 title: ' A CAREER IN CRAFT BEER'
 content: []
 description: Empowering Craft Beer Enthusiasts With Self Guided Courses
-purpose: []
+purpose:
+  - type: internal
+    label: Contact Us
+    item: 0fd12b09-cb16-4ce3-a000-3b30ec01d8c0
