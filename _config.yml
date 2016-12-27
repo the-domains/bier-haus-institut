@@ -18,9 +18,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2747f225-6d5c-4499-9db8-651f0a60db51.png
 name: bierhausinstiut
 navigation:
-  - name: RESOURCE LIBRARY
-    id: db92eb0b-70df-4bc3-81df-c89373a44c25
-    type: content
   - name: ABOUT
     id: 5570eb70-bfdf-44e4-a5d2-1125b3f7893e
     type: content
@@ -29,6 +26,9 @@ navigation:
     type: content
   - name: COURSES
     id: 9774af8f-f0c7-4913-938d-af7bc0868ddd
+    type: content
+  - name: RESOURCE LIBRARY
+    id: db92eb0b-70df-4bc3-81df-c89373a44c25
     type: content
   - name: CONTACT
     id: 0fd12b09-cb16-4ce3-a000-3b30ec01d8c0
