@@ -1,19 +1,19 @@
-typography_spectrum: 0.277448685931798
-content_rating:
-  adult: false
+layout_spectrum: 0.9545376763665255
+typography_spectrum: 0.3672737404924476
 color:
-  brandStrength: 0.27055361968133196
-  lightness: 0.3702920240449655
-  saturation: 0.11488668871066063
-  rhythmicContrast: 0.18592838079521046
+  brandStrength: 0.5152011468111178
+  lightness: 0.5628256855231922
+  saturation: 0.11719394609055454
+  rhythmicContrast: 0.392556902176636
   brandColors:
     - '#96CA2D'
     - '#B5E655'
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
+content_rating:
+  adult: false
 github: true
-layout_spectrum: 0.7752340223089709
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2747f225-6d5c-4499-9db8-651f0a60db51.png
 name: bierhausinstiut
