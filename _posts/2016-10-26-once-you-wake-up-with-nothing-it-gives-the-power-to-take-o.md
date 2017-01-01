@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-30T01:50:18.084Z'
+datePublished: '2017-01-01T01:26:19.552Z'
 sourcePath: >-
   _posts/2016-10-26-once-you-wake-up-with-nothing-it-gives-the-power-to-take-o.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-30T01:50:15.871Z'
+dateModified: '2017-01-01T01:26:17.479Z'
 title: >-
   “Whoever drinks beer, he is quick to sleep; whoever sleeps long, does not sin;
   whoever does not sin, enters heaven! Thus let us drink beer!”
