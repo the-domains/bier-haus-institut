@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-30T01:50:18.098Z'
+datePublished: '2017-01-01T01:26:19.633Z'
 sourcePath: _posts/2016-11-04-ready-aim-fire.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-30T01:50:15.871Z'
+dateModified: '2017-01-01T01:26:17.479Z'
 title: '“A man who lies about beer, makes enemies!”'
 publisher:
   name: 'Photo: Kata Weil'
