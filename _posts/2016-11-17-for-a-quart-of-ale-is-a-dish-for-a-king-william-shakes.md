@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-30T01:50:18.114Z'
+datePublished: '2017-01-01T01:26:19.773Z'
 sourcePath: _posts/2016-11-17-for-a-quart-of-ale-is-a-dish-for-a-king-william-shakes.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-30T01:50:15.871Z'
+dateModified: '2017-01-01T01:26:17.479Z'
 title: '“For a quart of Ale, is a dish for a king !”'
 publisher:
   name: 'Photo: Edward Franklin'
