@@ -59,7 +59,4 @@ favicon: >-
 title: ' A CAREER IN CRAFT BEER'
 content: []
 description: Empowering Craft Beer Enthusiasts With Self Guided Courses
-purpose:
-  - type: contact
-    url: 'tel:1-416-550-0765'
-    label: FREE 6-Day Email Course
+purpose: []
