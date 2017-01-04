@@ -1,5 +1,6 @@
-layout_spectrum: 0.5995084233458458
 typography_spectrum: 0.08693559778236443
+content_rating:
+  adult: false
 color:
   brandStrength: 0.7726512545404384
   lightness: 0.23959684045312207
@@ -11,9 +12,8 @@ color:
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.5995084233458458
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2747f225-6d5c-4499-9db8-651f0a60db51.png
 name: bierhausinstiut
@@ -60,9 +60,6 @@ title: ' A CAREER IN CRAFT BEER'
 content: []
 description: Empowering Craft Beer Enthusiasts With Self Guided Courses
 purpose:
-  - type: contact
-    url: 'tel:1-416-550-0765'
-    label: FREE 6-Day Email Course
   - type: contact
     url: 'tel:1-416-550-0765'
     label: FREE 6-Day Email Course
