@@ -1,5 +1,6 @@
-layout_spectrum: 0.5738249598640838
 typography_spectrum: 0.23295799084487234
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5389416724611258
   lightness: 0.18584723464775793
@@ -11,11 +12,10 @@ color:
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.5738249598640838
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2747f225-6d5c-4499-9db8-651f0a60db51.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cfcbf1c-4d33-412d-8c0f-110271997ef9.jpg
 name: bierhausinstiut
 navigation:
   - name: ABOUT
@@ -54,8 +54,7 @@ navigation:
   - name: RESOURCE LIBRARY
     id: e730142c-f1c2-4b7d-9d38-41515df37cf9
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61a35cab-e450-4a38-82ee-4301b1ec47ef.jpg
+favicon: null
 title: ' A CAREER IN CRAFT BEER'
 content: []
 description: Empowering Craft Beer Enthusiasts With Self Guided Courses
