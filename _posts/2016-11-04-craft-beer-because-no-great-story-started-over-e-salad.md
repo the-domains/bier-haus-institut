@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-01T01:26:19.501Z'
+datePublished: '2017-01-07T01:55:01.475Z'
 sourcePath: _posts/2016-11-04-craft-beer-because-no-great-story-started-over-e-salad.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-01T01:26:17.479Z'
+dateModified: '2017-01-07T01:55:00.949Z'
 title: >-
   “There is no such thing as a bad beer. It’s that some taste better than
   others!”
