@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-01T01:26:19.623Z'
+datePublished: '2017-01-07T01:55:01.475Z'
 sourcePath: _posts/2016-11-04-i-cant-change-the-worldbut-i-can-change-the-world-within.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-01T01:26:17.479Z'
+dateModified: '2017-01-07T01:55:00.949Z'
 title: “I have respect for beer!”
 publisher:
   name: 'Photo: Chester Ho'
