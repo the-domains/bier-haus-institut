@@ -1,5 +1,6 @@
-layout_spectrum: 0.22155851664252138
 typography_spectrum: 0.11049493061655229
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5362367318885051
   lightness: 0.18519431892109314
@@ -11,9 +12,8 @@ color:
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.22155851664252138
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cfcbf1c-4d33-412d-8c0f-110271997ef9.jpg
 name: bierhausinstiut
@@ -64,4 +64,4 @@ purpose:
     label: FREE Craft Beer and Food eBook!
   - type: contact
     url: 'tel:1-416-550-0765'
-    label: FREE 6- Day Craft Beer 101 Course!
+    label: FREE 6 - Day Craft Beer 101 Email Course!
