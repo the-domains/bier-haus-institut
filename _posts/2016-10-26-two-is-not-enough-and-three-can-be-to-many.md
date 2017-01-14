@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-01T01:26:19.502Z'
+datePublished: '2017-01-14T20:18:33.985Z'
 sourcePath: _posts/2016-10-26-two-is-not-enough-and-three-can-be-to-many.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-01T01:26:17.479Z'
+dateModified: '2017-01-14T20:18:33.267Z'
 title: >-
   “Most people hate the taste of beer, to begin with…It is however, a
   prejudice!”
