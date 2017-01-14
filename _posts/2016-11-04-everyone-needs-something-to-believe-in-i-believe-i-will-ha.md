@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-01T01:26:19.483Z'
+datePublished: '2017-01-14T20:18:33.886Z'
 sourcePath: >-
   _posts/2016-11-04-everyone-needs-something-to-believe-in-i-believe-i-will-ha.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-01T01:26:17.479Z'
+dateModified: '2017-01-14T20:18:33.267Z'
 title: >-
   “In a study, scientists report that drinking beer can be good for the liver. I
   am sorry did I say “scientists”?… I meant Irish people!”
