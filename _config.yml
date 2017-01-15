@@ -1,5 +1,6 @@
-layout_spectrum: 0.07886193805116018
 typography_spectrum: 0.811314307599891
+content_rating:
+  adult: false
 color:
   brandStrength: 0.41325234844994796
   lightness: 0.17329866340051933
@@ -11,9 +12,8 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.07886193805116018
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cfcbf1c-4d33-412d-8c0f-110271997ef9.jpg
 name: bierhausinstiut
@@ -61,7 +61,7 @@ description: Empowering Craft Beer Enthusiasts With Self Guided Courses
 purpose:
   - type: contact
     url: 'tel:1-416-550-0765'
-    label: Join Us for a FREE 6 Day
+    label: FREE 6-Day Email Course
   - type: contact
     url: 'tel:1-416-550-0765'
     label: CRAFT BEER 101 Course
