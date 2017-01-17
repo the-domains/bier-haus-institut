@@ -1,5 +1,6 @@
-layout_spectrum: 0.7223576939284875
 typography_spectrum: 0.4624991152706639
+content_rating:
+  adult: false
 color:
   brandStrength: 0.7834364709045074
   lightness: 0.0034250242630997213
@@ -11,9 +12,8 @@ color:
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.7223576939284875
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cfcbf1c-4d33-412d-8c0f-110271997ef9.jpg
 name: bierhausinstiut
@@ -62,3 +62,6 @@ purpose:
   - type: contact
     url: 'tel:1-416-550-0765'
     label: FREE 6 - Day Email Foundations Course
+  - type: contact
+    url: 'mailto:hi@bierhausinstitut.com'
+    label: Contact Us
