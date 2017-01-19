@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-07T01:55:01.479Z'
+datePublished: '2017-01-19T18:50:21.899Z'
 sourcePath: >-
   _posts/2016-11-01-everyone-needs-something-to-believe-in-i-believe-i-will-ha.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-07T01:55:00.949Z'
+dateModified: '2017-01-19T18:50:20.185Z'
 title: '“Beer, It’s the best damn drink in the world!”'
 publisher:
   name: 'Photo: Wil Stewart'
