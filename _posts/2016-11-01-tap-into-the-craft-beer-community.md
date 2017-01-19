@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-01T01:26:19.773Z'
+datePublished: '2017-01-19T18:50:22.045Z'
 sourcePath: _posts/2016-11-01-tap-into-the-craft-beer-community.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-01T01:26:17.479Z'
+dateModified: '2017-01-19T18:50:20.185Z'
 title: “ He was a wise man who invented beer !”
 publisher:
   name: 'Photo: Isa Martine'
