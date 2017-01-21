@@ -54,7 +54,8 @@ navigation:
   - name: RESOURCE LIBRARY
     id: e730142c-f1c2-4b7d-9d38-41515df37cf9
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/be903251-211b-4db5-99dd-3d7ab9fe4249.jpg
 title: ' A CAREER IN CRAFT BEER'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
