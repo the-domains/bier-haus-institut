@@ -83,7 +83,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Empowering Craft Beer Enthusiasts With Self Guided Courses
-purpose:
-  - type: contact
-    url: 'tel:1-416-550-0765'
-    label: FREE - 6 Day Email Mini - Course
+purpose: []
